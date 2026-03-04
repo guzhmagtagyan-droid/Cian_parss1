@@ -1,2 +1,22 @@
 Flask
-# Add other dependencies as needed
+requests
+beautifulsoup4
+selenium
+Pillow
+numpy
+opencv-python
+torch
+torchvision
+pytorch-lightning
+pydantic
+python-dotenv
+tqdm
+aiohttp
+pyyaml
+loguru
+huggingface-hub
+omegaconf
+scipy
+scikit-image
+imageio
+hydra-core
